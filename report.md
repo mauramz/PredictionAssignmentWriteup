@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
+author: "Mauricio Ramírez Herrera"
 output:
   html_document:
     fig_height: 9
